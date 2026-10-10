@@ -1,0 +1,44 @@
+/*div{
+    border: 2px dotted;
+    background-color: rgb(252, 202, 188);
+    padding: 20px;
+    margin: 30px ;
+}
+
+h2{
+    text-align: center;
+    color: rgb(80, 10, 243);
+    margin: 30px;
+}
+
+p{
+    color: rgb(135, 20, 20);
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.student-card{
+      width:500px;
+      background-color: beige;
+}
+.student-card{
+    width: 500px; 
+    background-color: rgb(205, 220, 255);
+    padding: 20px;
+    border: 2px solid;
+    margin: 10px;
+    text-align: center;
+}
+
+.student-container{
+    display: flex;
+}
+    
+#main-heading{
+    text-align: center;
+    margin: 20px solid;
+}
